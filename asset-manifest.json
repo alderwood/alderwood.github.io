@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/alderwood.solutions/static/css/main.9a67bc85.chunk.css",
-    "main.js": "/alderwood.solutions/static/js/main.75c1b1c3.chunk.js",
-    "main.js.map": "/alderwood.solutions/static/js/main.75c1b1c3.chunk.js.map",
-    "runtime-main.js": "/alderwood.solutions/static/js/runtime-main.789dec0f.js",
-    "runtime-main.js.map": "/alderwood.solutions/static/js/runtime-main.789dec0f.js.map",
-    "static/js/2.a2ebcadc.chunk.js": "/alderwood.solutions/static/js/2.a2ebcadc.chunk.js",
-    "static/js/2.a2ebcadc.chunk.js.map": "/alderwood.solutions/static/js/2.a2ebcadc.chunk.js.map",
-    "index.html": "/alderwood.solutions/index.html",
-    "precache-manifest.fe2682e943f3992c9af69cab9a318499.js": "/alderwood.solutions/precache-manifest.fe2682e943f3992c9af69cab9a318499.js",
-    "service-worker.js": "/alderwood.solutions/service-worker.js",
-    "static/css/main.9a67bc85.chunk.css.map": "/alderwood.solutions/static/css/main.9a67bc85.chunk.css.map",
-    "static/js/2.a2ebcadc.chunk.js.LICENSE.txt": "/alderwood.solutions/static/js/2.a2ebcadc.chunk.js.LICENSE.txt",
-    "static/media/App.module.scss": "/alderwood.solutions/static/media/home.7d6a3cd3.svg",
-    "static/media/joustr.png": "/alderwood.solutions/static/media/joustr.cbd2767d.png",
-    "static/media/quotr.png": "/alderwood.solutions/static/media/quotr.5aa85cd5.png"
+    "main.css": "/static/css/main.0d6e3549.chunk.css",
+    "main.js": "/static/js/main.942e4a3b.chunk.js",
+    "main.js.map": "/static/js/main.942e4a3b.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.22cd5b2c.js",
+    "runtime-main.js.map": "/static/js/runtime-main.22cd5b2c.js.map",
+    "static/js/2.a2ebcadc.chunk.js": "/static/js/2.a2ebcadc.chunk.js",
+    "static/js/2.a2ebcadc.chunk.js.map": "/static/js/2.a2ebcadc.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.f4bfafb349f948b6a24367475f8aa816.js": "/precache-manifest.f4bfafb349f948b6a24367475f8aa816.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.0d6e3549.chunk.css.map": "/static/css/main.0d6e3549.chunk.css.map",
+    "static/js/2.a2ebcadc.chunk.js.LICENSE.txt": "/static/js/2.a2ebcadc.chunk.js.LICENSE.txt",
+    "static/media/App.module.scss": "/static/media/home.7d6a3cd3.svg",
+    "static/media/joustr.png": "/static/media/joustr.cbd2767d.png",
+    "static/media/quotr.png": "/static/media/quotr.5aa85cd5.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.789dec0f.js",
+    "static/js/runtime-main.22cd5b2c.js",
     "static/js/2.a2ebcadc.chunk.js",
-    "static/css/main.9a67bc85.chunk.css",
-    "static/js/main.75c1b1c3.chunk.js"
+    "static/css/main.0d6e3549.chunk.css",
+    "static/js/main.942e4a3b.chunk.js"
   ]
 }
