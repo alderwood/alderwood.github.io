@@ -62,7 +62,9 @@ section {
   .project {
     width: $size-14;
     height: $size-14;
-    margin: 0;
+    margin: $size-3p5;
+    background: white;
+    padding: $size-3;
 
     img {
       width: $size-12;
